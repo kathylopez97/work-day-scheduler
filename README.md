@@ -59,10 +59,10 @@ VS Code
 
 ## Links
 
-[The URL of the deployed application](https://kathylopez97.github.io/javascript-homework/)
+[The URL of the deployed application](https://kathylopez97.github.io/work-day-scheduler/)
 
 
-[The URL of the Github repository](https://github.com/kathylopez97/javascript-homework)
+[The URL of the Github repository](https://github.com/kathylopez97/work-day-scheduler)
 
 ## Mock-up
 ![work-day-scheduler](insert here)
