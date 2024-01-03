@@ -1,7 +1,4 @@
 # Work-Day-Scheduler
-
- 
-## The Criteria of the Homework Assignment
 ## User Story
 
 ```
@@ -32,30 +29,50 @@ THEN the saved events persist
 
 
 
-
 <!--Project Shield -->
-[![Javascript License][license-shield]][license-url]
+[![Javascript License][license-shield]][license-url]     [![MIT License][MIT-license]][license-url]
+
+[MIT-license]:https://img.shields.io/badge/license-MIT-blue
 
 [license-shield]:https://img.shields.io/badge/logo-javascript-blue?logo=javascript
 
 
 [license-url]:https://github.com/kathylopez97/work-day-scheduler
 
-## Description
-
-
 
 ## Table of Contents 
 
-- [Installation](#installation)
-- [Links](#links)
-- [Credits](#credits)
-- [Features](#features)
+1. [Installation](#installation)
+2. [Links](#links)
+3. [Credits](#credits)
+4. [Features](#features)
+
+
+## The Criteria of the Homework Assignment
+The Criteria of Module 6 Challenge is save events for each timeframe of the day.
+
+``````
+As a bootcamp student, I would like to create a scheduler using html,css and javascript
+I want to create a workday scheduler to make it easier for users to use time management on web application
+So THAT I can create a a visual representation of past,present and future in a workday scheduler
+``````
+## Acceptance Criteria
+``````
+GIVEN I used html,css and javascript to create a well organize workday scheduler
+WHEN I open the website I can write down my planner on each time block for 9AM to 5PM schedule.
+``````
+## Description
+The color box represents each time block for past,present and future to help users identify which time has past throughout the day.
+  * ![#d3d3d3](https://via.placeholder.com/15/d3d3d3/000000?text=+) `Past` 
+  * ![#269dff](https://via.placeholder.com/15/269dff/000000?text=+) `Present`
+  * ![#dd77c0](https://via.placeholder.com/15/dd77c0/000000?text=+) `Future` 
+
 
 
 
 ## Installation
 VS Code
+
 
 ## Links
 
@@ -69,7 +86,7 @@ VS Code
 ## Credits
 -  https://www.youtube.com
 -  https://www.w3schools.com
-
+-  https://shields.io/
 
 ## Features
 - CSS
