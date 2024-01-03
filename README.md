@@ -1,4 +1,5 @@
 # Work-Day-Scheduler
+As a bootcamp student, I would like to create a creative workday scheduler using timeblock and color visual standards on my homework assignment 
 ## User Story
 
 ```
@@ -49,7 +50,7 @@ THEN the saved events persist
 
 
 ## The Criteria of the Homework Assignment
-The Criteria of Module 6 Challenge is save events for each timeframe of the day.
+The Criteria of Module 5 Challenge is save events for each timeframe of the day.
 
 ``````
 As a bootcamp student, I would like to create a scheduler using html,css and javascript
