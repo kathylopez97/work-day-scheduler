@@ -1,5 +1,6 @@
 # Work-Day-Scheduler
 As a bootcamp student, I would like to create a creative workday scheduler using timeblock and color visual standards on my homework assignment 
+## Overview of Workday Scheduler Challenge
 ## User Story
 
 ```
@@ -43,14 +44,16 @@ THEN the saved events persist
 
 ## Table of Contents 
 
-1. [Installation](#installation)
-2. [Links](#links)
-3. [Credits](#credits)
-4. [Features](#features)
+1. [Description](#description)
+2. [Installation](#installation)
+3. [Links](#links)
+4. [Credits](#credits)
+5. [Features](#features)
 
 
-## The Criteria of the Homework Assignment
-The Criteria of Module 5 Challenge is save events for each timeframe of the day.
+## Description
+
+## User Story
 
 ``````
 As a bootcamp student, I would like to create a scheduler using html,css and javascript
@@ -62,7 +65,6 @@ So THAT I can create a a visual representation of past,present and future in a w
 GIVEN I used html,css and javascript to create a well organize workday scheduler
 WHEN I open the website I can write down my planner on each time block for 9AM to 5PM schedule.
 ``````
-## Description
 The color box represents each time block for past,present and future to help users identify which time has past throughout the day.
   * ![#d3d3d3](https://via.placeholder.com/15/d3d3d3/000000?text=+) `Past` 
   * ![#269dff](https://via.placeholder.com/15/269dff/000000?text=+) `Present`
@@ -83,7 +85,8 @@ VS Code
 [The URL of the Github repository](https://github.com/kathylopez97/work-day-scheduler)
 
 ## Mock-up
-![work-day-scheduler](insert here)
+
+![work-day-scheduler](<Work Day Scheduler.gif>)
 ## Credits
 -  https://www.youtube.com
 -  https://www.w3schools.com
