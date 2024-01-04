@@ -47,6 +47,7 @@ THEN the saved events persist
 1. [Description](#description)
 2. [Installation](#installation)
 3. [Links](#links)
+4. [Mock-up](#mock-up)
 4. [Credits](#credits)
 5. [Features](#features)
 
